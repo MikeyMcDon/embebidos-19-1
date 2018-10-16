@@ -4,7 +4,7 @@
 ## EMBEDDED SYSTEMS
 ## _Reporte RaspberryPi 3_ 
 
-![alt tag](14643-Raspberry_Pi_3_B_-05.jpg)
+![alt tag](RaspberryPi3.jpg)
 
 ### Pre-requisitos 📋
 
@@ -65,6 +65,10 @@ _$  sudo  reboot_
 ```
 Reiniciamos nuestro sistema. 
 ```
+### Capturas de resultado 🔩
+
+![alt tag](RASPBIANenter.jpg)
+* ** Sistema Operativo Raspbian
 
 ## RaspberryPi  3  mediante  SSH ⚙️
 
@@ -142,7 +146,8 @@ Finalmente inicia el sistema mediante SSH.
 ### Capturas de resultado 🔩
 
 ![alt tag](hostname.jpg)
-![alt tag](ssh.jpg)
+![alt tag](SSHenter.jpg)
+![alt tag](SSHraspberry.jpg)
 * ** Entrar mediante SSH 
 
 ## RaspberryPi  3  mediante  VNC ⌨️
@@ -180,7 +185,8 @@ Finalmente inicia el sistema mediante VNC.
 
 ![alt tag](vnc.jpg)
 ![alt tag](vncviewer.jpg)
-![alt tag](vncenter.jpg)
+![alt tag](VNCenter.jpg)
+![alt tag](VNCraspberry.jpg)
 * ** Entrar mediante VNC 
 
 ## RaspberryPi  3  mediante  Consola 📌
@@ -241,7 +247,9 @@ Finalmente inicia el sistema mediante consola.
 ```
 ### Capturas del proceso 📦
 ![alt tag](dev115.jpg)
-![alt tag](tty0.jpg)
+![alt tag](UARTenter.jpg)
+![alt tag](UARTraspberry.jpg)
+* **Entrar mediante UART
 
 ## Autores ✒️
 
